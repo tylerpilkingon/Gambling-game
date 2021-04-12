@@ -1,0 +1,13 @@
+C:\Users\Tyler\source\repos\Gamble game\bin\Debug\netcoreapp3.1\Gamble game.exe
+C:\Users\Tyler\source\repos\Gamble game\bin\Debug\netcoreapp3.1\Gamble game.deps.json
+C:\Users\Tyler\source\repos\Gamble game\bin\Debug\netcoreapp3.1\Gamble game.runtimeconfig.json
+C:\Users\Tyler\source\repos\Gamble game\bin\Debug\netcoreapp3.1\Gamble game.runtimeconfig.dev.json
+C:\Users\Tyler\source\repos\Gamble game\bin\Debug\netcoreapp3.1\Gamble game.dll
+C:\Users\Tyler\source\repos\Gamble game\bin\Debug\netcoreapp3.1\Gamble game.pdb
+C:\Users\Tyler\source\repos\Gamble game\obj\Debug\netcoreapp3.1\Gamble game.AssemblyInfoInputs.cache
+C:\Users\Tyler\source\repos\Gamble game\obj\Debug\netcoreapp3.1\Gamble game.AssemblyInfo.cs
+C:\Users\Tyler\source\repos\Gamble game\obj\Debug\netcoreapp3.1\Gamble game.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\Gamble game\obj\Debug\netcoreapp3.1\Gamble game.dll
+C:\Users\Tyler\source\repos\Gamble game\obj\Debug\netcoreapp3.1\Gamble game.pdb
+C:\Users\Tyler\source\repos\Gamble game\obj\Debug\netcoreapp3.1\Gamble game.genruntimeconfig.cache
+C:\Users\Tyler\source\repos\Gamble game\obj\Debug\netcoreapp3.1\Gamble game.csprojAssemblyReference.cache
